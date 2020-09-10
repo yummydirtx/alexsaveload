@@ -14,7 +14,7 @@
 #include <stdlib.h>
 #include <string>
 
-// Saves the vector to the file
+// Saves a vector to the file
 void saveGame(std::vector<std::string> dataList);
 // Returns a vector from the file
 std::vector<std::string> loadGame();
